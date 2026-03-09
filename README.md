@@ -1,5 +1,6 @@
-## Hi there 👋
-
+<center>
+  <a href="https://ibb.co/rRt29Njs"><img src="https://i.ibb.co/Nd32RbvS/1000014382-1.png" alt="1000014382-1" border="0"></a>
+  
 <!--
 **DVDCryptid/DVDCryptid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
