@@ -1,4 +1,7 @@
+<p align="center">
 <a href="https://ibb.co/hRMfPmPP"><img src="https://i.ibb.co/4Zfd6V66/Marco-ONE-PIECE-full-668514.png" alt="Marco-ONE-PIECE-full-668514" border="0"></a>
+</p> 
+
 
 <!--
 **DVDCryptid/DVDCryptid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
