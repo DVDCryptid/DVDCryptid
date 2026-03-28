@@ -6,6 +6,10 @@
 
 [ata](https://dvdcryptid.atabook.org/)‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎  ‎ ‎[art credit](https://www.pixiv.net/en/artworks/18585103)
 
+<p align="center">
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/9HmyQKnG/burning-blood-one-piece-burning-blood.gif" alt="burning blood one piece burning blood" border="0"></a>
+</p>
+
 <!--
 **DVDCryptid/DVDCryptid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
