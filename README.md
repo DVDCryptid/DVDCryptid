@@ -4,7 +4,7 @@
 
 <div id="ata" align="center">
 
-[ata](https://dvdcryptid.atabook.org/)‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎  ‎ ‎[art credit](https://www.pixiv.net/en/artworks/18585103)
+[ata](https://dvdcryptid.atabook.org/)‎ ‎ ‎          ‎ ‎ ‎‎ ‎[strawpage](https://marcothepheonix.straw.page/)‎ ‎ ‎        ‎  ‎ ‎[art credit](https://www.pixiv.net/en/artworks/18585103)
 
 <p align="center">
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/9HmyQKnG/burning-blood-one-piece-burning-blood.gif" alt="burning blood one piece burning blood" border="0"></a>
